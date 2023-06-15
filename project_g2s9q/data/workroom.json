@@ -1,0 +1,8 @@
+{
+    "List of Entries": {"EntryList": [{
+        "amount": 50,
+        "category": "cat"
+    }]},
+    "Deposit": 200,
+    "Limit": 0
+}
